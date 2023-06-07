@@ -1,2 +1,5 @@
 # real-time-video-handwriting
-Final Project of 'Image Processing Programming' for the 2023 Spring Semester
+2023년 1학기 영상처리프로그래밍 과목의 기말 프로젝트 입니다.
+
+# 개요
+아래의 이미지와 같이 종이에 사용자가 원하는 크기로 네 점을 찍으면 프로그램이 자동으로 인식하여 이 점들을 토대로 원근 투영 변환을 통해 PC에서 보기에 수직에서 찍은 영상처럼 변환해 준다.
